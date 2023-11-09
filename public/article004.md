@@ -13,7 +13,7 @@ ignorePublish: false
 # はじめに
 <img width="360" alt="UnitEncoder1" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/d752bc0c-94a7-4669-0256-c723d09ac2a1.jpeg">
 
-M5StackにI2Cで接続して使うUnit Encoderを購入しました。
+M5StackにI2Cで接続して使うUnit Encoderを入手しました。
 
 [商品ページ](https://docs.m5stack.com/en/unit/encoder)によると、どうやらファームウェアを書き換えることができるとあります。それならばと書き換えてにチャレンジしてみました。
 
