@@ -2,11 +2,11 @@
 title: M5StackのUnit EncoderをM5Unifiedと共に使うClass
 tags:
   - M5stack
-  - UnitEncoder
   - M5Unified
+  - UnitEncoder
 private: false
-updated_at: ""
-id: null
+updated_at: '2023-11-09T15:05:37+09:00'
+id: 50fd5c0691ea8f025d9d
 organization_url_name: null
 slide: false
 ignorePublish: false
