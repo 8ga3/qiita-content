@@ -7,7 +7,7 @@ tags:
   - M5stack
   - micro-ROS
 private: false
-updated_at: '2023-11-06T12:11:30+09:00'
+updated_at: '2023-11-08T17:19:20+09:00'
 id: 8535699b8a7141568263
 organization_url_name: null
 slide: false
