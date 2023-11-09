@@ -22,7 +22,7 @@ M5 Atom Matrixにmicro-ROSをフラッシュします。さきに少し前に他
 # 使用環境とソフトウェアのバージョン
 
 | name              | version       |
-|:------------------|--------------:|
+|:------------------|:--------------|
 | MBP               | Intel Core i7 |
 | macOS             | 13.6.1        |
 | PlatformIO Core   | 6.1.11        |
@@ -272,7 +272,7 @@ $ ros2 topic list
 $ ros2 topic echo /pub_imu
 ```
 
-右側ターミナルがmicro_ROS_Agent、左側ターミナルがtopic表示です。1秒毎に送られてくることがわかります。
+左側ターミナルがmicro_ROS_Agent、右側ターミナルがtopic表示です。1秒毎に送られてくることがわかります。
 
 ![run_micro-ros-agent.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/f79e6194-708d-32e9-aa64-f6ca291b0f19.png)
 
