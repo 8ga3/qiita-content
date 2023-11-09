@@ -56,6 +56,11 @@ sudo ln -s ../../../usr/local/opt/binutils binutils
 
 ```platform.ini```を以下のように編集します。`lib_deps`に`Wire`がないとビルドエラーになるので省略しないようにします。
 
+:::note info
+M5 Atom S3の設定を追加しました。
+M5Unifiedを使うように変えました。Wireは必要ありません。
+:::
+
 ```ini:platform.ini
 [env:m5stack-atom]
 platform = espressif32
@@ -63,9 +68,22 @@ board = m5stack-atom
 framework = arduino
 lib_deps = 
     fastled/FastLED@^3.6.0
-    m5stack/M5Atom@^0.1.2
-    Wire
+  	m5stack/M5Unified@^0.1.10
     https://github.com/micro-ROS/micro_ros_platformio
+board_microros_distro = iron
+board_microros_transport = serial
+
+[env:m5stack-atoms3]
+platform = espressif32
+board = m5stack-atoms3
+framework = arduino
+lib_deps = 
+	fastled/FastLED@^3.6.0
+	m5stack/M5Unified@^0.1.10
+	https://github.com/micro-ROS/micro_ros_platformio
+build_flags =
+	'-D ARDUINO_USB_MODE=1'
+	'-D ARDUINO_USB_CDC_ON_BOOT=1'
 board_microros_distro = iron
 board_microros_transport = serial
 ```
@@ -89,7 +107,7 @@ board_microros_transport = serial
 
 ```cpp:main.cpp
 #include <Arduino.h>
-#include <M5Atom.h>
+#include <M5Unified.h>
 #include <micro_ros_platformio.h>
 
 #include <rcl/rcl.h>
@@ -187,7 +205,6 @@ void loop() {
   delay(100);
   RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(100)));
 }
-
 ```
 
 # フラッシュ
