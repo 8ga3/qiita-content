@@ -165,8 +165,8 @@ void timer_callback(rcl_timer_t * timer, int64_t last_call_time) {
 }
 
 void setup() {
-  M5.begin(true, true, true);
-  M5.IMU.Init();
+  auto cfg = M5.config();
+  M5.begin(cfg);
 
   // Configure serial transport
   Serial.begin(115200);
