@@ -4,6 +4,8 @@ tags:
   - M5stack
   - M5Unified
   - UnitEncoder
+  - Arduino
+  - PlatformIO
 private: false
 updated_at: '2023-11-09T15:05:37+09:00'
 id: 50fd5c0691ea8f025d9d
