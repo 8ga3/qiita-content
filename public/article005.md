@@ -1,13 +1,13 @@
 ---
 title: M5StackのUnit EncoderをM5Unifiedと共に使うClass
 tags:
+  - Arduino
+  - PlatformIO
   - M5stack
   - M5Unified
   - UnitEncoder
-  - Arduino
-  - PlatformIO
 private: false
-updated_at: '2023-11-09T15:05:37+09:00'
+updated_at: '2023-11-11T10:27:56+09:00'
 id: 50fd5c0691ea8f025d9d
 organization_url_name: null
 slide: false

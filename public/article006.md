@@ -1,11 +1,11 @@
 ---
 title: Unityのバージョン変更が動かなかったときにしたこと
 tags:
-  - Unity
   - macOS
+  - Unity
 private: false
-updated_at: ''
-id: 
+updated_at: '2023-11-11T10:27:56+09:00'
+id: e54c7918b0182ed8adfb
 organization_url_name: null
 slide: false
 ignorePublish: false
