@@ -53,7 +53,7 @@ void setEncoderMode(encoder_mode_t mode);
 
 ロータリーエンコーダーのモードを設定します。
 
-パラメータ
+**パラメータ**
 * *mode* :
 
 | name | 説明 |
@@ -69,6 +69,9 @@ signed short int getEncoderValue();
 
 ロータリーエンコーダーの値を取得します。setEncoderMode()の設定によって取得できる値は変わります。
 
+**戻り値**
+* ロータリーエンコーダーの値
+
 ## setEncoderValue (V1.1)
 
 ```cpp
@@ -77,8 +80,11 @@ bool setEncoderValue(signed short int value);
 
 ロータリーエンコーダーの値を設定します。起動直後は0が設定されています。
 
-パラメータ
+**パラメータ**
 * *value* : -32768 ~ 32767
+
+**戻り値**
+* 成功したかどうか
 
 ## getButtonStatus
 
@@ -88,6 +94,9 @@ bool getButtonStatus();
 
 ボタンが押されているかどうかを取得します。
 
+**戻り値**
+* 押下状態
+
 ## setLEDColor
 
 ```cpp
@@ -96,7 +105,7 @@ void setLEDColor(uint8_t index, uint32_t color);
 
 LED色を設定します。
 
-パラメータ
+**パラメータ**
 * *index* : LED番号
   * 0: すべてのLED
   * 1: LED1
@@ -111,6 +120,9 @@ bool resetCounter();
 ```
 
 リセットします。
+
+**戻り値**
+* 成功したかどうか
 
 ## おわりに
 
