@@ -1,14 +1,14 @@
 ---
 title: M5StackのAtomMotionをM5Unifiedと共に使うClass
 tags:
+  - Arduino
+  - PlatformIO
   - M5stack
   - M5Unified
   - AtomMotion
-  - Arduino
-  - PlatformIO
 private: false
-updated_at: ''
-id: 
+updated_at: '2023-11-16T10:42:47+09:00'
+id: 0bd721cfa1a2966a432c
 organization_url_name: null
 slide: false
 ignorePublish: false
