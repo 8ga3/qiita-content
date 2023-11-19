@@ -6,8 +6,8 @@ tags:
   - Shader
   - PointCloud
 private: false
-updated_at: ''
-id: 
+updated_at: '2023-11-19T10:16:09+09:00'
+id: ed48631a03cefabde75c
 organization_url_name: null
 slide: false
 ignorePublish: false
