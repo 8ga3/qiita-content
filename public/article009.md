@@ -1,12 +1,12 @@
 ---
 title: Ubuntu 22.04をLenovo IdeaPad MIIX 320-10ICRにインストール
 tags:
-  - 'IdeaPad'
-  - 'MIIX'
-  - 'Ubuntu'
+  - Ubuntu
+  - ideapad
+  - MIIX
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-03-10T10:39:52+09:00'
+id: 587eea3a1aa5f9c07e02
 organization_url_name: null
 slide: false
 ignorePublish: false
