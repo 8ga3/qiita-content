@@ -3,11 +3,12 @@ title: UnityのInput SystemでUSB接続のゲームパッドを使用できる�
 tags:
   - Unity
   - macOS
-  - Logicool F310
+  - Logicool
+  - F310
 private: false
 updated_at: ''
 id: null
-organization_url_name: null
+organization_url_name: access
 slide: false
 ignorePublish: false
 ---
