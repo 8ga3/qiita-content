@@ -7,7 +7,7 @@ tags:
 private: false
 updated_at: ''
 id: null
-organization_url_name: https://qiita.com/organizations/access
+organization_url_name: access
 slide: false
 ignorePublish: false
 ---
