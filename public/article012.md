@@ -1,14 +1,14 @@
 ---
 title: ジンバルモーター、SimpleFOCで動かす(2)
 tags:
-  - BLDC
   - Arduino
-  - ArduinoUnoR4
-  - SimpleFOC
   - PlatformIO
+  - BLDC
+  - SimpleFOC
+  - ArduinoUnoR4
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-07-03T01:37:32+09:00'
+id: 9448e5cb4ce6a69effb0
 organization_url_name: access
 slide: false
 ignorePublish: false
