@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-01T01:27:54+09:00'
+updated_at: ''
 id: e4d768db56cdb59da31a
 organization_url_name: access
 slide: false
