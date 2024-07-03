@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-03T01:37:32+09:00'
+updated_at: ''
 id: 9448e5cb4ce6a69effb0
 organization_url_name: access
 slide: false
@@ -223,3 +223,5 @@ DRV: timers started
 アングルモードで動くようになりました。
 
 次回、Commanderを使ってみます。
+
+https://qiita.com/8ga3/items/c0005c7f8fe284ec52a5
