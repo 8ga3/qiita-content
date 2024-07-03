@@ -105,3 +105,6 @@ SimpleFOCMiniにピンヘッダーをつけ、それぞれケーブルで接続�
 モジュールをつなぐところまでいきました。
 
 次回、コーディングしていきます。
+
+https://qiita.com/8ga3/items/9448e5cb4ce6a69effb0
+
