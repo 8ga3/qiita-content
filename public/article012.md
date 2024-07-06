@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-04T01:04:45+09:00'
+updated_at: ''
 id: 9448e5cb4ce6a69effb0
 organization_url_name: access
 slide: false
@@ -167,11 +167,33 @@ DRV: starting timer: 7
 DRV: timers started
 ```
 
-そして原因ですが、[generic_mcu.cpp](https://github.com/simplefoc/Arduino-FOC/blob/master/src/drivers/hardware_specific/generic_mcu.cpp)のせいでした。[renesas.cpp](https://github.com/simplefoc/Arduino-FOC/blob/master/src/drivers/hardware_specific/renesas/renesas.cpp)と比べてみると関数名が同一です。これではリンクしたときに、どちらの関数が使われるかは運になるのではないでしょうか。
+そして原因ですが、[generic_mcu.cpp]のせいでした。[renesas.cpp]と比べてみると関数名が同一です。これではリンクしたときに、どちらの関数が使われるかは運になるのではないでしょうか。
 
-とりあえず私は`generic_mcu.cpp`の中身をまるごと`#if 0 〜 #endif`で囲って、実質削除してしまいました。
+とりあえず私は[generic_mcu.cpp]の中身をまるごと`#if 0 〜 #endif`で囲って、実質削除してしまいました。
 
 ようやく音がなく、ガタガタ振動することもなく動くようになりました。発熱もなくなったので安心して触れます。
+
+### 追記
+
+[generic_mcu.cpp]の関数には`__attribute__((weak))`が付加されていました。これは、同名関数があった場合、`__attribute__((weak))`がついていない方を優先する宣言でした。
+
+PlatformIOで発生する既知の問題でして、[解決方法が記載](https://docs.simplefoc.com/library_platformio)されていました。
+
+`platformio.ini`に`lib_archive = false`を追記します。前記の方法は取らなくてよいです。
+
+[generic_mcu.cpp]: https://github.com/simplefoc/Arduino-FOC/blob/master/src/drivers/hardware_specific/generic_mcu.cpp
+[renesas.cpp]: https://github.com/simplefoc/Arduino-FOC/blob/master/src/drivers/hardware_specific/renesas/renesas.cpp
+
+```ini
+[env:uno_r4_minima]
+platform = renesas-ra
+board = uno_r4_minima
+framework = arduino
+lib_deps = 
+	askuric/Simple FOC@^2.3.3
+	simplefoc/SimpleFOCDrivers@^1.0.7
+lib_archive = false
+```
 
 # シリアルモニターへデバッグ出力
 
