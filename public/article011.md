@@ -1,5 +1,5 @@
 ---
-title: ジンバルモーター、SimpleFOCで動かす(1)
+title: ジンバルモーター、SimpleFOCで動かす(1) - 組み立て編
 tags:
   - Arduino
   - PlatformIO
@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-04T01:01:21+09:00'
+updated_at: ''
 id: e4d768db56cdb59da31a
 organization_url_name: access
 slide: false

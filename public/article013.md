@@ -1,5 +1,5 @@
 ---
-title: ジンバルモーター、SimpleFOCで動かす(3)
+title: ジンバルモーター、SimpleFOCで動かす(3) - Commander編
 tags:
   - Arduino
   - PlatformIO
@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-04T01:01:21+09:00'
+updated_at: ''
 id: c0005c7f8fe284ec52a5
 organization_url_name: access
 slide: false
@@ -155,3 +155,5 @@ T3.14 3.0 2.0
 # おわりに
 
 次回、Teleplotでテレメトリをグラフ表示します。
+
+https://qiita.com/8ga3/items/ae252c0afe864eb960ae
