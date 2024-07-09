@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-09T18:09:32+09:00'
+updated_at: ''
 id: ae252c0afe864eb960ae
 organization_url_name: access
 slide: false
@@ -124,3 +124,5 @@ Teleplot画面を開き、ポートを設定しOpenボタンを押せばグラ�
 Teleplotを使えばPIDの調整がしやすくなったかと思います。
 
 次回は、今回使用した磁気エンコーダについて少し書いてみます。
+
+https://qiita.com/8ga3/items/eaa26381e1a4a7a6b8da
