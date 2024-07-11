@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-09T18:14:36+09:00'
+updated_at: '2024-07-11T17:40:57+09:00'
 id: e4d768db56cdb59da31a
 organization_url_name: access
 slide: false
@@ -66,15 +66,15 @@ ignorePublish: false
 
 ![mag5-6.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/508e20f4-13b3-1330-5038-7d93da68b2df.png)
 
-横から見るとこんな感じになります。ネジが邪魔で磁石がちょっとしかみえませんね…
+横から見るとこんな感じになります。 ~~ネジが邪魔で磁石がちょっとしかみえませんね…~~ ネジを非表示にして、チップを追加した画像に差し替えました。
 
-![mag7.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/8dec114c-1ce4-5917-72c5-f1f9f33c13f6.png)
+![bldc_cg2.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/ae193dbd-0e77-9a55-92eb-c310396d944d.png)
 
 # 組付け
 
 CGだとこんな感じになります。
 
-![mag8.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/acfbe534-d3a1-4a02-0e15-184c89e0924b.png)
+![bldc_cg1.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/3e4de2d7-c1bf-4cef-20ed-b0b6ba076080.png)
 
 動きがわかるようにステーをつけてます。
 
