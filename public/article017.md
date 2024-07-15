@@ -4,11 +4,11 @@ tags:
   - Arduino
   - BLDC
   - SimpleFOC
-  - SimpleFOCStudio
   - ArduinoUnoR4
+  - SimpleFOCStudio
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-07-15T15:06:19+09:00'
+id: 29c241aa43adbf6908d1
 organization_url_name: access
 slide: false
 ignorePublish: false
