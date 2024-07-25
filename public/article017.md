@@ -7,7 +7,7 @@ tags:
   - ArduinoUnoR4
   - SimpleFOCStudio
 private: false
-updated_at: '2024-07-15T15:06:19+09:00'
+updated_at: ''
 id: 29c241aa43adbf6908d1
 organization_url_name: access
 slide: false
@@ -167,3 +167,7 @@ Arduino Uno R4とはUSBで接続しておいてください。矢印のところ
 # さいごに
 
 ツリーに表示されたPID・フィルター・リミットを編集できるので、根気でチューニングしましょう。頑張ってください！
+
+次回、モーターを2個つなげて動かします。
+
+https://qiita.com/8ga3/items/5f4be147a180e6b8fb06

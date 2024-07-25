@@ -7,7 +7,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-12T17:53:24+09:00'
+updated_at: ''
 id: 859013d7fd19154372ec
 organization_url_name: access
 slide: false
@@ -175,3 +175,5 @@ void* _configureADCInline(const void* driver_params, const int pinA,const int pi
 # おわりに
 
 次回、SimpleFOCStudioについて書いてみたいと思います。
+
+https://qiita.com/8ga3/items/29c241aa43adbf6908d1
