@@ -6,7 +6,7 @@ tags:
   - SimpleFOC
   - ArduinoUnoR4
 private: false
-updated_at: '2024-07-25T17:53:35+09:00'
+updated_at: ''
 id: 5f4be147a180e6b8fb06
 organization_url_name: access
 slide: false
@@ -97,3 +97,4 @@ BLDCDriver3PWM driver2{6, 5, 1, 0};
 
 次回はI2Cマルチプレクサをつかって磁気エンコーダを2個つなげます。
 
+https://qiita.com/8ga3/items/61e19205d9f533660afa
