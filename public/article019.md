@@ -7,7 +7,7 @@ tags:
   - I2Cマルチプレクサ
   - TCA9548A
 private: false
-updated_at: '2024-08-04T23:10:21+09:00'
+updated_at: ''
 id: 61e19205d9f533660afa
 organization_url_name: access
 slide: false
@@ -33,7 +33,9 @@ AS5600とはI2C接続しています。I2Cはチップ毎にユニークな7bit�
 2. I2Cマルチプレクサで切り替え
 3. [I2Cアドレストランスレーター](https://akizukidenshi.com/catalog/g/g115789/)でアドレスを書き換え
 
-1が手っ取り早いです。Arduino Uno R4はピンヘッダのA5とA6を、２つ目のI2Cとして使えます。私はこのGPIOを別の用途に使いたかったので却下しました。
+~~1が手っ取り早いです。Arduino Uno R4はピンヘッダのA5とA6を、２つ目のI2Cとして使えます。私はこのGPIOを別の用途に使いたかったので却下しました。~~
+
+SCLとSDAは、A4とA5共用でした。Arduino Uno R4 Wi-Fiの場合はQwiicコネクタに2つ目のWire1が出ているそうです。ただしQwiicの電圧は3.3Vであることに注意が必要です。Arduino Uno R4 Wi-Fiは所有していないため却下となります。
 
 あとは2と3ですが、I2Cデバイスが2個なら3が楽かなと思います。しかし私は2のマルチプレクサを使いました。単純に先に手元に届いたからです。
 
