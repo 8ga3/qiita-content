@@ -1,11 +1,11 @@
 ---
 title: Babylon.jsでイージングを組み合わせたアニメーション
 tags:
-  - 'Babylon.js'
-  - 'JavaScript'
+  - JavaScript
+  - Babylon.js
 private: true
-updated_at: ''
-id: null
+updated_at: '2024-11-26T15:43:52+09:00'
+id: 630765c466c7bff8d2ff
 organization_url_name: null
 slide: false
 ignorePublish: false
