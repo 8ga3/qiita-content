@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - Babylon.js
 private: true
-updated_at: '2024-11-27T12:44:44+09:00'
+updated_at: '2024-11-28T11:49:30+09:00'
 id: 19c7a32417dac486728d
 organization_url_name: null
 slide: false
