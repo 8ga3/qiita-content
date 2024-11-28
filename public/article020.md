@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - Babylon.js
 private: true
-updated_at: '2024-11-27T12:44:44+09:00'
+updated_at: ''
 id: 630765c466c7bff8d2ff
 organization_url_name: null
 slide: false
@@ -122,6 +122,8 @@ https://playground.babylonjs.com/#2CTZW8
 
 メダル落としを作ってみました。プッシャーが前後に動くところにイージングを使ってます。
 
+ちなみに、AndroidのChromeでARモードにすることができます。 先に **chrome://flags** でWebXRの設定を有効にする必要があるかもしれません。
+
 ![PushMedal.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/e0724ffb-b6ce-682c-4f85-2f0436fc24a9.png)
 
-https://playground.babylonjs.com/#579QOL#3
+https://playground.babylonjs.com/#579QOL#5
