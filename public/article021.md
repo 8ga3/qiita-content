@@ -3,8 +3,8 @@ title: Babylon.jsを使ってPLYファイルの点群を簡単に表示する方
 tags:
   - JavaScript
   - Babylon.js
-private: true
-updated_at: ''
+private: false
+updated_at: '2025-08-15T14:22:46+09:00'
 id: 19c7a32417dac486728d
 organization_url_name: null
 slide: false

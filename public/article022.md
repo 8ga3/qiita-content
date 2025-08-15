@@ -1,14 +1,14 @@
 ---
 title: pioarduino IDE (PlatformIO)でpymcuprogを使ってATtiny202に書き込む方法
 tags:
-  - 'Arduino'
-  - 'PlatformIO'
-  - 'tinyAVR'
-  - 'ATtiny202'
-  - 'pymcuprog'
+  - Arduino
+  - PlatformIO
+  - ATtiny202
+  - tinyAVR
+  - pymcuprog
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-15T14:22:46+09:00'
+id: 676b94cfa88baa1b6b3d
 organization_url_name: access
 slide: false
 ignorePublish: false
