@@ -7,7 +7,7 @@ tags:
   - tinyAVR
   - pymcuprog
 private: false
-updated_at: '2025-08-15T14:22:46+09:00'
+updated_at: ''
 id: 676b94cfa88baa1b6b3d
 organization_url_name: access
 slide: false
@@ -99,6 +99,7 @@ Done.
 platform = atmelmegaavr
 board = ATtiny202
 framework = arduino
+board_build.f_cpu=20000000L
 upload_protocol = custom
 upload_port = /dev/tty.usbserial-110
 upload_speed = 57600
