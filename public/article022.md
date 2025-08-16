@@ -7,7 +7,7 @@ tags:
   - tinyAVR
   - pymcuprog
 private: false
-updated_at: ''
+updated_at: '2025-08-16T11:12:10+09:00'
 id: 676b94cfa88baa1b6b3d
 organization_url_name: access
 slide: false
