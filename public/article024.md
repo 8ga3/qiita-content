@@ -7,7 +7,7 @@ tags:
   - micro-ROS
   - colima
 private: false
-updated_at: '2025-10-12T00:24:40+09:00'
+updated_at: ''
 id: 87b29390a783c07fee19
 organization_url_name: access
 slide: false
@@ -109,7 +109,7 @@ $ brew services kill colima
 
 # microROS-AgentとrqtをColima上のDocker Containerで動かす
 
-ROS2 KiltedをインストールしたDockerイメージを使います。`docker-compose.yaml` に２行追加します。
+ROS2 KiltedをインストールしたDockerイメージを使います。`docker-compose.yaml` に２行追加します。（元のyamlファイルがどこだったかメモを忘れました。）
 
 `DISPLAY`は、ホスト側のmacOSのXQuartzで表示するための設定です。
 
