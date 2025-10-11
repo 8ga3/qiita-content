@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi 5 M.2 HAT+で単独ブートできないNVMe SSDをルートファイルシステムにする方法
 tags:
-  - 'Raspberry Pi'
+  - 'RaspberryPi'
 private: false
 updated_at: ''
 id: null
