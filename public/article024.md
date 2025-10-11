@@ -7,7 +7,7 @@ tags:
   - micro-ROS
   - colima
 private: false
-updated_at: ''
+updated_at: '2025-10-12T00:41:56+09:00'
 id: 87b29390a783c07fee19
 organization_url_name: access
 slide: false
