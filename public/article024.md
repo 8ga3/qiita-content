@@ -7,7 +7,7 @@ tags:
   - micro-ROS
   - colima
 private: false
-updated_at: '2025-10-12T00:41:56+09:00'
+updated_at: ''
 id: 87b29390a783c07fee19
 organization_url_name: access
 slide: false
@@ -156,8 +156,8 @@ services:
 ## XQuartzのインストール
 
 ```bash
-brew install xquartz
-open -a XQuartz
+$ brew install xquartz
+$ open -a XQuartz
 ```
 
 ## XQuartzの設定
@@ -171,7 +171,7 @@ open -a XQuartz
 コンテナのGUIをホスト側で表示できるように許可します。
 
 ```bash
-xhost +localhost
+$ xhost +localhost
 ```
 
 ## XQuartzの設定
@@ -203,13 +203,13 @@ $ defaults read org.xquartz.x11
 xtermを起動しないようにします。（これはお好みで設定してください。）
 
 ```sh
-defaults write org.xquartz.X11 app_to_run /usr/bin/true
+$ defaults write org.xquartz.X11 app_to_run /usr/bin/true
 ```
 
 Indirect GLX を有効にします。
 
 ```sh
-defaults write org.xquartz.X11 enable_iglx -bool true
+$ defaults write org.xquartz.X11 enable_iglx -bool true
 ```
 
 
@@ -219,7 +219,7 @@ defaults write org.xquartz.X11 enable_iglx -bool true
 
 ## Dockerfile
 
-```docker
+```docker:Dockerfile
 FROM alpine
 
 RUN apk --no-cache add mesa-demos
