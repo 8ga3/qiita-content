@@ -3,7 +3,7 @@ title: Raspberry Pi 5 M.2 HAT+で単独ブートできないNVMe SSDをルート
 tags:
   - RaspberryPi
 private: false
-updated_at: '2025-10-11T17:00:05+09:00'
+updated_at: ''
 id: 0e539134f0381d524e2f
 organization_url_name: access
 slide: false
@@ -122,7 +122,7 @@ $ sudo apt upgrade
 1. NVMe SSDの確認: ターミナルで `lsblk` コマンドを実行し、NVMe SSDが認識されていることを確認します。通常、 `/dev/nvme0n1` のように表示されます。
 2. `fdisk` で地道に作業する方法もありますが、私はSD Card Copierを使いました。GUIで簡単にコピーできます。**New Partition UUIDs** にチェックを入れるのを忘れないようにします。SD Cardを選択し、NVMe SSDを選択してコピーを実行します。
 
-![sdcard_copier.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/710b8bdf-1c7c-4200-8b36-4a68f31a9259.jpeg)
+![SD Card Copier](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/3f85a625-f1b4-4b56-baa8-0260b5ac0e1d.jpeg)
 
 ## 起動設定の変更
 
