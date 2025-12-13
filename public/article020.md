@@ -4,7 +4,7 @@ tags:
   - JavaScript
   - Babylon.js
 private: false
-updated_at: ''
+updated_at: '2025-12-13T23:32:03+09:00'
 id: 630765c466c7bff8d2ff
 organization_url_name: access
 slide: false
