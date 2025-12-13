@@ -4,9 +4,9 @@ tags:
   - JavaScript
   - Babylon.js
 private: false
-updated_at: '2025-08-15T14:22:46+09:00'
+updated_at: ''
 id: 630765c466c7bff8d2ff
-organization_url_name: null
+organization_url_name: access
 slide: false
 ignorePublish: false
 ---
