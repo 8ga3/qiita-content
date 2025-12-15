@@ -4,9 +4,9 @@ tags:
   - Docker
   - ardupilot
 private: true
-updated_at: '2025-12-13T23:32:03+09:00'
+updated_at: ''
 id: 384081801628753efb7c
-organization_url_name: null
+organization_url_name: access
 slide: false
 ignorePublish: false
 ---
