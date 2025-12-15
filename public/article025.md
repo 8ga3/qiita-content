@@ -26,7 +26,7 @@ SITLを使えば、羽田空港でフライトなんてことも可能です！
 
 ![qgc_drone_three.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/5cf5792c-944b-4cbe-a570-f803d3d256df.jpeg)
 
-GitHubリポジトリはこちらです。
+GitHubリポジトリは[こちら](https://github.com/8ga3/ardupilot_sitl_docker)です。
 
 https://github.com/8ga3/ardupilot_sitl_docker
 
