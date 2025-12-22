@@ -1,11 +1,11 @@
 ---
 title: 謎のラジコン用受信機のファームウェアを最新版にしてみた
 tags:
-  - ExpressLRS
   - ラジコン
+  - ExpressLRS
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-23T00:48:55+09:00'
+id: 9db86931ee6fe1b8a3ca
 organization_url_name: access
 slide: false
 ignorePublish: false
