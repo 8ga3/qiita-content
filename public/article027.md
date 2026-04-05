@@ -4,8 +4,8 @@ tags:
   - ラジコン
   - EdgeTX
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-04-05T23:30:28+09:00'
+id: 7de0a8eb9b5a785bb319
 organization_url_name: access
 slide: false
 ignorePublish: false
