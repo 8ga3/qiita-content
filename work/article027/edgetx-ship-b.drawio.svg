@@ -1,0 +1,55 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent; color-scheme: light dark;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="191px" height="251px" viewBox="0 0 191 251" content="&lt;mxfile host=&quot;embed.diagrams.net&quot; agent=&quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.114.0 Chrome/142.0.7444.265 Electron/39.8.3 Safari/537.36&quot; version=&quot;29.6.6&quot;&gt;&lt;diagram id=&quot;J9_wMxgJeBwp8TMiFyxU&quot; name=&quot;ページ-1&quot;&gt;3Zjfr5owFMf/Gh5HgCriozp3fdiSm9xle1wqLdCscEipivvr10KRH3p3XYLR+KLtt+3h9Hx6OFULrdLyReA8+QaEcstzSGmhz5bnBShQn1o4GsHxaiEWjNSS2wpv7A81omPUHSO06E2UAFyyvC+GkGU0lD0NCwGH/rQIeP+pOY7pmfAWYn6u/mREJmYX3qzVN5TFSfNk15/XIyluJpudFAkmcOhIaG2hlQCQdSstV5Tr2DVxqdd9eWf05JigmbxmATpfYGwU8thsN5EpVy3XQsuTv47qEFwklJgO5izOVDtUhqhQwp4KyVTMFmYgZYRoi9pGri2nZaxPh10T8epvbVafCseeId3WR8ad6xYTCiUDbSoDoeO4zECGiXl+7fUe853x2gjKC1p2dmbi8EIhpVIc1ZSkg2pmuBxarMhIjZGJ6Zuz25DE5kzFJ8Nt2FXDRP4yhckDUdjSjCy6JCa2P2tJ2K47CHy1cEOxdsHzbR3ipYBdRiqn3Fui8Qdo5uOj8a9BM4xlzoi9p0VBeWEXucDHX0SwCkcHYg5MM1rvleHCaO/i+4q3lL9CwUwGbEFKSC/wlZAPz4QAic2yT26glYhxvgIOonIfRVHkhaE+E1LAb9oZIf7Wn/qjIQzOEU4HCFEfoeuMwLApGw+RX7vvO5ENEiwIBnmEqjde6Wl/AhsFFyneLK0GTDxnwMQdg8mFUvUETCLO8o3xmNMYh8dFFiYgXnWyF7cuVQNw/i24eQ/E7Qa1SgP8cTeAHxa0MQg+z53vKljDYheE9HKx2wbTyfS+V8kx8D75ZfK+b1j/n2/YMS6c7vT5+X2csx3Id2P5/zBVt/3pXo11/v9A678=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <g data-cell-id="0">
+            <g data-cell-id="1">
+                <g data-cell-id="3">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 60 30.95 L 111 30.95 L 111 20 L 130 35 L 111 50 L 111 39.05 L 60 39.05 L 60 35 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,95,35)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="4">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 170.89 0 L 190 13.11 L 170.89 26.22 L 170.89 17.78 L 140.27 17.78 C 139.76 17.78 139.34 18.2 139.34 18.71 L 139.34 70 L 134.67 70 L 130 70 L 130 17.78 C 130 12.62 134.18 8.44 139.34 8.44 L 170.89 8.44 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="6">
+                    <g transform="translate(0.5,0.5)">
+                        <rect x="70" y="80" width="50" height="80" fill="none" stroke="none" transform="rotate(-180,95,120)" pointer-events="all"/>
+                        <path d="M 70 80 L 70 135 L 95 160 L 120 135 L 120 80 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" transform="rotate(-180,95,120)" pointer-events="all" style="fill: light-dark(rgb(255, 242, 204), rgb(40, 29, 0)); stroke: light-dark(rgb(214, 182, 86), rgb(109, 81, 0));"/>
+                    </g>
+                </g>
+                <g data-cell-id="10">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 167.69 90 L 186.07 109.5 L 167.69 129 L 167.69 114.38 C 157.79 114.38 149.76 122.41 149.76 132.31 C 149.76 142.21 157.79 150.24 167.69 150.24 L 190 150.24 L 190 160 L 167.69 160 C 152.4 160 140 147.6 140 132.31 C 140 117.02 152.4 104.62 167.69 104.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-180,165,125)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="11">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 27.69 90 L 46.07 109.5 L 27.69 129 L 27.69 114.38 C 17.79 114.38 9.76 122.41 9.76 132.31 C 9.76 142.21 17.79 150.24 27.69 150.24 L 50 150.24 L 50 160 L 27.69 160 C 12.4 160 0 147.6 0 132.31 C 0 117.02 12.4 104.62 27.69 104.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="translate(25,0)scale(-1,1)translate(-25,0)rotate(180,25,125)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="12">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 170.89 180 L 190 193.11 L 170.89 206.22 L 170.89 197.78 L 140.27 197.78 C 139.76 197.78 139.34 198.2 139.34 198.71 L 139.34 250 L 134.67 250 L 130 250 L 130 197.78 C 130 192.62 134.18 188.44 139.34 188.44 L 170.89 188.44 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="translate(0,215)scale(1,-1)translate(0,-215)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="13">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 60 210.95 L 111 210.95 L 111 200 L 130 215 L 111 230 L 111 219.05 L 60 219.05 L 60 215 Z" fill="#f8cecc" stroke="#b85450" stroke-miterlimit="10" transform="translate(95,0)scale(-1,1)translate(-95,0)rotate(-270,95,215)" pointer-events="all" style="fill: light-dark(rgb(248, 206, 204), rgb(81, 45, 43)); stroke: light-dark(rgb(184, 84, 80), rgb(215, 129, 126));"/>
+                    </g>
+                </g>
+                <g data-cell-id="14">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 40.89 0 L 60 13.11 L 40.89 26.22 L 40.89 17.78 L 10.27 17.78 C 9.76 17.78 9.34 18.2 9.34 18.71 L 9.34 70 L 4.67 70 L 0 70 L 0 17.78 C 0 12.62 4.18 8.44 9.34 8.44 L 40.89 8.44 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="translate(30,0)scale(-1,1)translate(-30,0)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+                <g data-cell-id="15">
+                    <g transform="translate(0.5,0.5)">
+                        <path d="M 40.89 180 L 60 193.11 L 40.89 206.22 L 40.89 197.78 L 10.27 197.78 C 9.76 197.78 9.34 198.2 9.34 198.71 L 9.34 250 L 4.67 250 L 0 250 L 0 197.78 C 0 192.62 4.18 188.44 9.34 188.44 L 40.89 188.44 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(180,30,215)" pointer-events="all" style="fill: light-dark(#ffffff, var(--ge-dark-color, #121212)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
