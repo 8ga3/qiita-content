@@ -9,6 +9,8 @@ id: ed60578a1d55e32bfc2b
 organization_url_name: null
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # はじめに
 <img width="360" alt="UnitEncoder1" src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/d752bc0c-94a7-4669-0256-c723d09ac2a1.jpeg">

@@ -12,6 +12,8 @@ id: 676b94cfa88baa1b6b3d
 organization_url_name: access
 slide: false
 ignorePublish: false
+posting_campaign_uuid: null
+agreed_posting_campaign_term: false
 ---
 # 概要
 

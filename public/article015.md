@@ -10,6 +10,8 @@ id: eaa26381e1a4a7a6b8da
 organization_url_name: access
 slide: false
 ignorePublish: false
+posting_campaign_uuid: d340ce2d6bd2d5b557f5
+agreed_posting_campaign_term: true
 ---
 # はじめに
 
