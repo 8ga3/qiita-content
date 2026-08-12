@@ -7,7 +7,7 @@ tags:
   - Geospatial
   - 地理院タイル
 private: false
-updated_at: ''
+updated_at: '2026-08-11T09:58:52+09:00'
 id: 33c1b135fcebd3ec8107
 organization_url_name: access
 slide: false
