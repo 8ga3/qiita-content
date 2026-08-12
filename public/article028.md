@@ -1,5 +1,5 @@
 ---
-title: Babylon.js 9.0 の新機能 Geospatial で日本の地形を3D化するモジュール jpmap_terrain 紹介
+title: Babylon.js 9 の新機能 Geospatial で日本の地形を3D化するモジュール jpmap_terrain 紹介
 tags:
   - jpmap_terrain
   - TypeScript
@@ -7,7 +7,7 @@ tags:
   - Geospatial
   - 地理院タイル
 private: false
-updated_at: '2026-08-11T09:58:52+09:00'
+updated_at: ''
 id: 33c1b135fcebd3ec8107
 organization_url_name: access
 slide: false
@@ -107,9 +107,9 @@ https://github.com/8ga3/jpmap_terrain
 
 もちろん、地理院タイルの利用規約や出典表示のルールには従う必要があります。
 
-# Babylon.js 9.0 のGeospatialを使っています
+# Babylon.js 9 のGeospatialを使っています
 
-このプロジェクトでは、Babylon.js 9.0 のGeospatial関連機能を利用しています。
+このプロジェクトでは、Babylon.js 9 のGeospatial関連機能を利用しています。
 
 緯度・経度を地球規模の3D空間へ変換し、GeospatialCameraやECEF座標系を使って地形を表示します。
 
@@ -252,7 +252,7 @@ http://localhost:8080
 
 # まとめ
 
-`jpmap_terrain`は、地理院タイルの標高データとBabylon.js 9.0 のGeospatial機能を組み合わせた、国内向けの3D地形プロジェクトです。
+`jpmap_terrain`は、地理院タイルの標高データとBabylon.js 9 のGeospatial機能を組み合わせた、国内向けの3D地形プロジェクトです。
 
 ブラウザから必要なタイルを取得する構成にすることで、アプリケーション側のランニングコストを抑えています。
 
