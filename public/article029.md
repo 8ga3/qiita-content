@@ -3,10 +3,10 @@ title: WebXRのジオラマが動かない？ セキュアコンテキストとH
 tags:
   - jpmap_terrain
   - WebXR
-  - Cloudflare
+  - cloudflare
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-08-12T10:25:11+09:00'
+id: 7d4d2ae52acf441a5993
 organization_url_name: access
 slide: false
 ignorePublish: false
