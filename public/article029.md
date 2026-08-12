@@ -3,7 +3,7 @@ title: WebXRのジオラマが動かない？ セキュアコンテキストとH
 tags:
   - jpmap_terrain
   - WebXR
-  - 'Cloudflare Quick Tunnel'
+  - Cloudflare
 private: false
 updated_at: ''
 id: null
