@@ -1,5 +1,5 @@
 ---
-title: Babylon.js 9.0 の Geospatial（float64）上で float32 の Havok 物理を動かす — 大砲ゲームで実装した「ステージフレーム」方式
+title: Babylon.js 9 の Geospatial（float64）上で float32 の Havok 物理を動かす — 大砲ゲームで実装した「ステージフレーム」方式
 tags:
   - jpmap_terrain
   - TypeScript
@@ -27,7 +27,7 @@ https://qiita.com/8ga3/items/33c1b135fcebd3ec8107
 
 ![Artillery Game のプレイ画面](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3569302/5e59fb44-0850-4907-85cd-48e3a7192149.jpeg)
 
-ところがこのデモを Babylon.js 9.0 の **Geospatial（ECEF 楕円体 + floating origin）** 上に載せようとしたところ、そのままでは Havok が使えないという壁にぶつかりました。
+ところがこのデモを Babylon.js 9 の **Geospatial（ECEF 楕円体 + floating origin）** 上に載せようとしたところ、そのままでは Havok が使えないという壁にぶつかりました。
 
 **Geospatial は座標を float64（倍精度）前提で扱うのに対して、Havok は float32（単精度）ベース**だからです。
 
@@ -42,7 +42,7 @@ https://qiita.com/8ga3/items/33c1b135fcebd3ec8107
 
 ## Geospatial とは
 
-Babylon.js 9.0 で追加された Geospatial 系の機能は、**地球規模のシーンを実寸で扱う**ためのものです。地形メッシュは ECEF（Earth-Centered, Earth-Fixed）座標に配置されます。ECEF は地球の中心を原点とする直交座標系で、地表の点はおおよそ **6.4 × 10⁶ m** のオーダーになります。
+Babylon.js 9 で追加された Geospatial 系の機能は、**地球規模のシーンを実寸で扱う**ためのものです。地形メッシュは ECEF（Earth-Centered, Earth-Fixed）座標に配置されます。ECEF は地球の中心を原点とする直交座標系で、地表の点はおおよそ **6.4 × 10⁶ m** のオーダーになります。
 
 日本のどこかの地表を ECEF で表すと、こんな値です。
 
