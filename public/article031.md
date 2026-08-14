@@ -1,5 +1,7 @@
 ---
-title: Babylon.js 9 の Geospatial（float64）上で float32 の Havok 物理を動かす — 大砲ゲームで実装した「ステージフレーム」方式
+title: >-
+  Babylon.js 9 の Geospatial（float64）上で float32 の Havok 物理を動かす —
+  大砲ゲームで実装した「ステージフレーム」方式
 tags:
   - jpmap_terrain
   - TypeScript
@@ -7,8 +9,8 @@ tags:
   - Geospatial
   - Havok
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-08-14T09:08:18+09:00'
+id: 279ae178f01151a391a1
 organization_url_name: access
 slide: false
 ignorePublish: false
