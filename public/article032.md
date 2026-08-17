@@ -7,7 +7,7 @@ tags:
   - PointerEvents
   - TypeScript
 private: false
-updated_at: '2026-08-17T09:06:22+09:00'
+updated_at: ''
 id: 79a1e61b22c7eb824687
 organization_url_name: access
 slide: false
@@ -218,6 +218,8 @@ const SECONDARY_BUTTON_COMPONENT_ID = { left: "y-button", right: "b-button" };
 対策として、**支配的な軸だけを有効にする「十字キー化」のゲート**を挟んでいます。X と Y を素直に独立して扱わず、`|x| > |y|` なら X のみ、逆なら Y のみを通す、という処理です。オンスクリーンのボタンUIは元から排他なので、この処理は物理スティックの入力にだけ適用します。
 
 ## 実機検証について（別記事）
+
+https://qiita.com/8ga3/items/7d4d2ae52acf441a5993
 
 ここまでのクセは、どれも**実機で1回ログを出せば即座にわかる**類のものです。逆に言えば、実機で確認する手段を持たないまま推測でコードを書くと延々ハマります。
 
