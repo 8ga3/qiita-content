@@ -7,7 +7,7 @@ tags:
   - PointerEvents
   - TypeScript
 private: false
-updated_at: ''
+updated_at: '2026-08-17T09:16:34+09:00'
 id: 79a1e61b22c7eb824687
 organization_url_name: access
 slide: false
