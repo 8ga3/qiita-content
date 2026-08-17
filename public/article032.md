@@ -7,7 +7,7 @@ tags:
   - PointerEvents
   - TypeScript
 private: false
-updated_at: '2026-08-17T09:16:34+09:00'
+updated_at: ''
 id: 79a1e61b22c7eb824687
 organization_url_name: access
 slide: false
@@ -219,8 +219,6 @@ const SECONDARY_BUTTON_COMPONENT_ID = { left: "y-button", right: "b-button" };
 
 ## 実機検証について（別記事）
 
-https://qiita.com/8ga3/items/7d4d2ae52acf441a5993
-
 ここまでのクセは、どれも**実機で1回ログを出せば即座にわかる**類のものです。逆に言えば、実機で確認する手段を持たないまま推測でコードを書くと延々ハマります。
 
 ただ、Quest でのWeb開発は手元で確認するまでのハードルが少し高く、
@@ -240,8 +238,7 @@ https://qiita.com/8ga3/items/7d4d2ae52acf441a5993
 
 このHTTPS公開手順については、こちらのページにまとめたのでご覧ください。
 
-> 📝 **関連記事（準備中）**: Meta Quest 実機でWebXRアプリを検証する環境の作り方（HTTPSトンネル / USB+adb）
-> ※ 公開後にここへリンクを貼ります。
+https://qiita.com/8ga3/items/7d4d2ae52acf441a5993
 
 ## まとめ：チェックリスト
 
