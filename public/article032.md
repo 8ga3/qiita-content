@@ -7,7 +7,7 @@ tags:
   - PointerEvents
   - TypeScript
 private: false
-updated_at: '2026-08-17T09:17:54+09:00'
+updated_at: ''
 id: 79a1e61b22c7eb824687
 organization_url_name: access
 slide: false
@@ -265,4 +265,4 @@ Quest で入力が怪しいときは、まず `pointerType` と `buttons` と `p
 
 - リポジトリ: https://github.com/8ga3/jpmap_terrain
 - 箱庭ジオラマデモの仕様: [spec/demos.md](https://github.com/8ga3/jpmap_terrain/blob/main/spec/demos.md)
-- 関連記事: WebXRのジオラマが動かない？ セキュアコンテキストとHTTPSの話 ※公開後にリンクを貼ります
+- 関連記事: [WebXRのジオラマが動かない？ セキュアコンテキストとHTTPSの話](https://qiita.com/8ga3/items/7d4d2ae52acf441a5993)
